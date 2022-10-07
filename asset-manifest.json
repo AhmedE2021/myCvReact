@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/webappfirst/static/css/main.83ddc4c7.css",
+    "main.js": "/webappfirst/static/js/main.e897ef2c.js",
+    "static/js/787.4a90c645.chunk.js": "/webappfirst/static/js/787.4a90c645.chunk.js",
+    "static/media/noerrory.gif": "/webappfirst/static/media/noerrory.c9e4c548ec10fc570efb.gif",
+    "static/media/ahmed-icon1.png": "/webappfirst/static/media/ahmed-icon1.f37e1cd25a97c8b60b9a.png",
+    "index.html": "/webappfirst/index.html",
+    "main.83ddc4c7.css.map": "/webappfirst/static/css/main.83ddc4c7.css.map",
+    "main.e897ef2c.js.map": "/webappfirst/static/js/main.e897ef2c.js.map",
+    "787.4a90c645.chunk.js.map": "/webappfirst/static/js/787.4a90c645.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83ddc4c7.css",
+    "static/js/main.e897ef2c.js"
+  ]
+}
